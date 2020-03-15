@@ -1,0 +1,9 @@
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\bin\Debug\CustomersSimulation.exe.config
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\bin\Debug\CustomersSimulation.exe
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\bin\Debug\CustomersSimulation.pdb
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\obj\Debug\CustomersSimulation.csprojAssemblyReference.cache
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\obj\Debug\CustomersSimulation.Form1.resources
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\obj\Debug\CustomersSimulation.Properties.Resources.resources
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\obj\Debug\CustomersSimulation.csproj.GenerateResource.cache
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\obj\Debug\CustomersSimulation.exe
+D:\Ing Degree\Simulation\Programs\CustomersSimulation\obj\Debug\CustomersSimulation.pdb
